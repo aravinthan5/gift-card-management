@@ -1,0 +1,8 @@
+Q4 : Implement a gift card system with a existing bank. 
+The bank has many customers . 
+Each customer can create many gift card. 
+Balance should detected from bank balance when a gift card is created.
+A gift card has a id, pin.
+You can Top-up any gift card, 
+close gift card 
+buy item using gift card(they are called transactions), etc.
